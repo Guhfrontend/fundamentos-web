@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    background-color: #1F1F33;
+}
+
+main{
+    position: absolute;
+    width: 98%;
+    height: 80%;
+    background-image: url(imagem.png);
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    color: #D14081;
+}
+
+p {
+    color: #51E5FF;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}  

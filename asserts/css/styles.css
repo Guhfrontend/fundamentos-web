@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+* {
+    font-size: 20px;
+}
+body{
+    background-color: #1F1F33;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a{
+    font-size: 25px;
+    color: brown;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+
