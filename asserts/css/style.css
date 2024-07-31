@@ -8,7 +8,7 @@ main{
     position: absolute;
     width: 98%;
     height: 80%;
-    background-image: url(imagem.png);
+    background-image: url("../image/imagem.png");
     background-size: cover;
 }
 
